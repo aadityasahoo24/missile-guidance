@@ -47,9 +47,14 @@ I also pass it through a time delay block for added realism
 And so with this we get a guidance mechanism for our missile such that it intercepts stationary, moving and maneuvering targets.
 
 ## Control loop
-![alt text](image.png)
+<img width="786" height="491" alt="image" src="https://github.com/user-attachments/assets/698f821a-fe7e-48bb-89d0-599a091a407d" />
+
 
 ## Demo
+
+
+https://github.com/user-attachments/assets/16e1813d-78e4-4cd2-9ad5-e1c0d80f9eb2
+
 
 
 ## Future changes
